@@ -1,3 +1,3 @@
-The code and datasets of THUIQ.
+The code and datasets of USER.
 
-THUIQ is the proposed method in the paper "THUIQ: Targeted High-Utility Itemset Querying" which was submitted to the 2023 CIKM Conference.
+USER is the proposed method in the paper "USER: Towards High-Utility Sequential Rules with Repetitive Items" which was submitted to the 2023 ICDM Conference.
