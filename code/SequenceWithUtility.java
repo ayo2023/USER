@@ -1,33 +1,10 @@
 package ca.pfv.spmf.algorithms.sequential_rules.husrm;
 
 
-/* Copyright (c) 2008-2013 Philippe Fournier-Viger
-* 
-* This file is part of the SPMF DATA MINING SOFTWARE
-* (http://www.philippe-fournier-viger.com/spmf).
-* 
-* SPMF is free software: you can redistribute it and/or modify it under the
-* terms of the GNU General Public License as published by the Free Software
-* Foundation, either version 3 of the License, or (at your option) any later
-* version.
-* 
-* SPMF is distributed in the hope that it will be useful, but WITHOUT ANY
-* WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
-* A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-* 
-* You should have received a copy of the GNU General Public License along with
-* SPMF. If not, see <http://www.gnu.org/licenses/>.
-*/
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Implementation of a sequence. A sequence is here a list of itemsets. Each itemset
- * contains a set of items, where each item is associated to a utility value.
-*
-* @see SequenceDatabaseWithUtility
- * @author Philipe-Fournier-Viger
- */
+
 public class SequenceWithUtility {
 	
 	// this is the list of itemsets contained in this sequence
